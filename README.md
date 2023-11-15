@@ -58,9 +58,15 @@ Follow these steps to set up and run the assessment:
     Ensure your Composer dependencies are up to date:
     ```bash
         composer update
+        npm install
+
+6. **run build command**
+    open a terminal in project directory
+    ```bash
+        npm run dev
 
 6. **Run the Laravel Server:**      
-    Start the Laravel development server:
+    Open another terminal in same directory and start the Laravel development server:
     ```bash
         php artisan serve
     
