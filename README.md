@@ -17,7 +17,7 @@ Follow these steps to set up and run the assessment:
    Open your terminal and navigate to the `xampp/htdocs` folder. Clone the repository by running:
 
    ```bash
-   git clone https://github.com/your-username/assessment-repo.git
+   git clone https://github.com/Israr22/packt-assessment.git
 2. **Create a Database:**
    Create a new database using your preferred database management tool (e.g., phpMyAdmin).
 
