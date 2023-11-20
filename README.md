@@ -1,5 +1,5 @@
 
-## Pack Assessment
+## Packt Assessment
 
 # Assessment Setup Guide
 
